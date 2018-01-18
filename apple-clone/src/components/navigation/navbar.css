@@ -1,0 +1,14 @@
+.navbar__top {
+    display: block;
+    list-style: none;
+}
+
+.navbar__top_items {
+    display: inline-block;
+    padding: 0 5px;
+}
+
+.navbar__navlink {
+    text-decoration: none;
+
+}
